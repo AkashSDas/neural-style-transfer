@@ -22,6 +22,12 @@ Now how would it look like if Kandinsky decided to paint the picture of this Dog
 
 <img src="https://tensorflow.org/tutorials/generative/images/stylized-image.png" style="width: 500px;"/>
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Results](#results)
+- [License](#license)
+
 ## Getting started
 
 The [notebook](https://www.kaggle.com/akashsdas/neural-style-transfer-for-images) is available on Kaggle to work in the same environment where this notebook was created i.e. use the same version packages used, etc...
