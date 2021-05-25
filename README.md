@@ -35,7 +35,7 @@ The [notebook](https://www.kaggle.com/akashsdas/neural-style-transfer-for-images
 ## Results
 
 ![](./docs/img-2.png)
-![](./docs/img-5.png)
+![](./docs/img-6.png)
 
 ![](./docs/img-3.png)
 ![](./docs/img-5.png)
